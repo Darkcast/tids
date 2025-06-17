@@ -82,3 +82,10 @@ If you need to revert the changes made by this script:
     ```
 
     Replace `<timestamp>` with the actual timestamp from your backup file.
+
+
+<br>
+<br>
+
+# Licencing 
+This project is strictly for **non-commercial use**, including personal and educational purposes. Commercial exploitation is **not permitted**.
