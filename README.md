@@ -1,7 +1,7 @@
 # Touch ID sudo Setup (tIDs)
 
-<div style="display: flex; justify-content: center;">
-    <img src="tids.png" alt="tids_banner" style="width: 60%; max-width: 400px; height: auto;">
+<div align="center">
+    <img src="tids.png" alt="tids_banner" style="width: 70%; max-width: 700px; height: auto;">
 </div>
 
 ## Description
@@ -27,7 +27,7 @@ cd tids
 chmod +x tids.sh
 ```
 
-### Then run it with the desired options:
+### Run it with the desired option(s):
 
 ```bash
 ./tids.sh [OPTIONS]
@@ -37,7 +37,7 @@ chmod +x tids.sh
 -h, --help: Show the help message and exit.
 
 ```
-## Usage Examples
+## Usage Example
 Configure Touch ID (fails if already configured):
 ```bash
 ./tids.sh [OPTIONS are not required]
