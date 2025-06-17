@@ -1,6 +1,8 @@
 # Touch ID sudo Setup (tIDs)
 
-![tids_banner](tids.png) <!-- Replace with an actual image URL if you have one -->
+<div style="display: flex; justify-content: center;">
+    <img src="tids.png" alt="tids_banner" style="width: 60%; max-width: 400px; height: auto;">
+</div>
 
 ## Description
 
