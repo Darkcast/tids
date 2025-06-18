@@ -6,7 +6,8 @@
 
 ## Description
 
-"The `tids.sh` script helps you enable Touch ID for sudo commands on macOS, providing secure fingerprint authentication as a convenient password replacement for elevated privileges."
+The `tids.sh` script helps you enable Touch ID for sudo commands on macOS, providing secure fingerprint authentication as a convenient password replacement for elevated privileges.
+
 
 ## Requirements
 
@@ -30,7 +31,9 @@ chmod +x tids.sh
 ### Run it with the desired option(s):
 
 ```bash
-./tids.sh [OPTIONS]
+./tids.sh [ARGUMENTS]
+
+Note: ARGUMENTS are optional
 
 -f, --force: Force reconfiguration even if sudo_local already exists. This will create a backup of your existing sudo_local file.
 -l, --logging: Enable detailed logging with timestamps.
@@ -40,7 +43,7 @@ chmod +x tids.sh
 ## Usage Example
 Configure Touch ID:
 ```bash
-./tids.sh [OPTIONS are not required]
+./tids.sh [ARGUMENTS are optional]
 ```
 
 
