@@ -38,7 +38,7 @@ chmod +x tids.sh
 
 ```
 ## Usage Example
-Configure Touch ID (fails if already configured):
+Configure Touch ID:
 ```bash
 ./tids.sh [OPTIONS are not required]
 ```
