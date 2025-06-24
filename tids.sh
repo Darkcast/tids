@@ -164,9 +164,10 @@ parse_args() {
 check_macos() {
     if [[ "$(uname)" != "Darwin" ]]; then
         echo "This script is designed for macOS only."
-        echo "Playing sad trumbone"
+        echo "Please ensure you are running it on a macOS machine with Touch ID support."
+        echo "Playing sad trumbone, XD"
         xdg-open "https://www.youtube.com/watch?v=CQeezCdF4mk&ab_channel=GamingSoundFX"
-        log_error "This script is designed for macOS only."
+        log_error "Unsupported operating system. Aborting."
         exit 1
     fi
 }
