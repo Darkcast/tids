@@ -6,8 +6,9 @@
 
 ## Description
 
-The `tids.sh` script helps you enable Touch ID for sudo commands on macOS, providing secure fingerprint authentication as a convenient password replacement for elevated privileges.
+Enable Touch ID Authentication for sudo on macOS, Secure Fingerprint Login for Elevated Privileges
 
+The `tids.sh` script is a straightforward utility designed to help macOS users enable Touch ID for `sudo` commands. This provides secure fingerprint authentication as a convenient password replacement whenever you need elevated privileges in your terminal. Get a seamless and secure experience, bypassing manual password entry for your administrative tasks.
 
 ## Requirements
 
