@@ -1,4 +1,4 @@
-# Touch ID sudo Setup (tIDs)
+# Enable Touch ID sudo Setup script
 
 <div align="center">
     <img src="tids.png" alt="tids_banner" style="width: 70%; max-width: 700px; height: auto;">
